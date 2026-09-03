@@ -1,0 +1,167 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(524,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  pch.cpp
+  dllmain.cpp
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(3,9): warning C4603: 'NOMINMAX': macro is not defined or definition is different after precompiled header use
+  (compiling source file '/dllmain.cpp')
+      D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(3,9):
+      Add macro to precompiled header instead of defining here
+      D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(5,1):
+      use of precompiled header
+  
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(102,74): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(102,74): warning C4244:         with
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(102,74): warning C4244:         [
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(102,74): warning C4244:             _Tp=int
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(102,74): warning C4244:         ]
+  (compiling source file '/dllmain.cpp')
+  
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(102,37): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(102,37): warning C4244:         with
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(102,37): warning C4244:         [
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(102,37): warning C4244:             _Tp=int
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(102,37): warning C4244:         ]
+  (compiling source file '/dllmain.cpp')
+  
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(103,74): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(103,74): warning C4244:         with
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(103,74): warning C4244:         [
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(103,74): warning C4244:             _Tp=int
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(103,74): warning C4244:         ]
+  (compiling source file '/dllmain.cpp')
+  
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(103,37): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(103,37): warning C4244:         with
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(103,37): warning C4244:         [
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(103,37): warning C4244:             _Tp=int
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(103,37): warning C4244:         ]
+  (compiling source file '/dllmain.cpp')
+  
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(104,74): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(104,74): warning C4244:         with
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(104,74): warning C4244:         [
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(104,74): warning C4244:             _Tp=int
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(104,74): warning C4244:         ]
+  (compiling source file '/dllmain.cpp')
+  
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(104,37): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(104,37): warning C4244:         with
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(104,37): warning C4244:         [
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(104,37): warning C4244:             _Tp=int
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(104,37): warning C4244:         ]
+  (compiling source file '/dllmain.cpp')
+  
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(105,74): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(105,74): warning C4244:         with
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(105,74): warning C4244:         [
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(105,74): warning C4244:             _Tp=int
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(105,74): warning C4244:         ]
+  (compiling source file '/dllmain.cpp')
+  
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(105,37): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(105,37): warning C4244:         with
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(105,37): warning C4244:         [
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(105,37): warning C4244:             _Tp=int
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(105,37): warning C4244:         ]
+  (compiling source file '/dllmain.cpp')
+  
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(106,57): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(106,57): warning C4244:         with
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(106,57): warning C4244:         [
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(106,57): warning C4244:             _Tp=int
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(106,57): warning C4244:         ]
+  (compiling source file '/dllmain.cpp')
+  
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(106,35): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(106,35): warning C4244:         with
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(106,35): warning C4244:         [
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(106,35): warning C4244:             _Tp=int
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(106,35): warning C4244:         ]
+  (compiling source file '/dllmain.cpp')
+  
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(107,57): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(107,57): warning C4244:         with
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(107,57): warning C4244:         [
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(107,57): warning C4244:             _Tp=int
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(107,57): warning C4244:         ]
+  (compiling source file '/dllmain.cpp')
+  
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(107,35): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(107,35): warning C4244:         with
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(107,35): warning C4244:         [
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(107,35): warning C4244:             _Tp=int
+D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(107,35): warning C4244:         ]
+  (compiling source file '/dllmain.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(476,61): warning C4244: 'initializing': conversion from '_Ty' to 'char', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(476,61): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(476,61): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(476,61): warning C4244:             _Ty=wchar_t
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(476,61): warning C4244:         ]
+  (compiling source file '/dllmain.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(476,61):
+      the template instantiation context (the oldest one first) is
+          D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(151,26):
+          see reference to function template instantiation 'std::vector<char,std::allocator<char>>::vector<std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Iter=std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>,
+              _Alloc=std::allocator<char>
+          ]
+              D:\test\MeasureDistance-1.7\DistanceDll\dllmain.cpp(151,26):
+              see the first reference to 'std::vector<char,std::allocator<char>>::vector' in 'imread_unicode'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(712,13):
+          see reference to function template instantiation 'void std::vector<char,std::allocator<char>>::_Append_uncounted_range<std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>(_Iter,const _Sent)' being compiled
+          with
+          [
+              _Iter=std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>,
+              _Sent=std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(951,13):
+          see reference to function template instantiation '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<_Elem>(_Elem &&)' being compiled
+          with
+          [
+              _Ty=char,
+              _Elem=wchar_t
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(845,20):
+          see reference to function template instantiation '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<wchar_t>(wchar_t &&)' being compiled
+          with
+          [
+              _Ty=char
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(860,18):
+          see reference to function template instantiation 'void std::_Construct_in_place<char,_Ty>(char &,_Ty &&) noexcept' being compiled
+          with
+          [
+              _Ty=wchar_t
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xmemory(732,82): warning C4244: 'initializing': conversion from '_Ty' to '_Ty', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xmemory(732,82): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xmemory(732,82): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xmemory(732,82): warning C4244:             _Ty=wchar_t
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xmemory(732,82): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xmemory(732,82): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xmemory(732,82): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xmemory(732,82): warning C4244:             _Ty=char
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xmemory(732,82): warning C4244:         ]
+  (compiling source file '/dllmain.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xmemory(732,82):
+      the template instantiation context (the oldest one first) is
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(848,17):
+          see reference to function template instantiation 'char *std::vector<char,std::allocator<char>>::_Emplace_reallocate<_Ty>(char *const ,_Ty &&)' being compiled
+          with
+          [
+              _Ty=wchar_t
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(900,23):
+          see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,wchar_t>(_Alloc &,_Objty *const ,wchar_t &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<char>,
+              _Ty=char,
+              _Objty=char
+          ]
+  
+     Creating library D:\test\MeasureDistance-1.7\Bin64\DistanceDll.lib and object D:\test\MeasureDistance-1.7\Bin64\DistanceDll.exp
+  DistanceDll.vcxproj -> D:\test\MeasureDistance-1.7\Bin64\DistanceDll.dll
