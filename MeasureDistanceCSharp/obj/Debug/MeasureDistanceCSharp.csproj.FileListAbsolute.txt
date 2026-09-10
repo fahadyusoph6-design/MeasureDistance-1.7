@@ -1,0 +1,5 @@
+D:\test\MeasureDistance-1.4\MeasureDistanceCSharp\obj\Debug\MeasureDistanceCSharp.csproj.AssemblyReference.cache
+D:\test\MeasureDistance-1.4\MeasureDistanceCSharp\obj\Debug\MeasureDistanceCSharp.Form1.resources
+D:\test\MeasureDistance-1.4\MeasureDistanceCSharp\obj\Debug\MeasureDistanceCSharp.Properties.Resources.resources
+D:\test\MeasureDistance-1.4\MeasureDistanceCSharp\obj\Debug\MeasureDistanceCSharp.csproj.GenerateResource.cache
+D:\test\MeasureDistance-1.4\MeasureDistanceCSharp\obj\Debug\MeasureDistanceCSharp.csproj.CoreCompileInputs.cache
